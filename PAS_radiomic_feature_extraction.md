@@ -175,3 +175,8 @@ def main():
 
 if __name__ == '__main__':
   main()
+  
+  Source: https://github.com/AIM-Harvard/pyradiomics
+  
+  Reference:
+  van Griethuysen, J. J. M., Fedorov, A., Parmar, C., Hosny, A., Aucoin, N., Narayan, V., Beets-Tan, R. G. H., Fillion-Robin, J. C., Pieper, S., Aerts, H. J. W. L. (2017). Computational Radiomics System to Decode the Radiographic Phenotype. Cancer Research, 77(21), e104–e107
