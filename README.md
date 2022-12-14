@@ -6,7 +6,7 @@ This script describes a suggested workflow for extracting radiomic features from
 The main workflow of this script is as follows:
 
 1. Defintion of PAS cases and controls
-2. Feature extraction using PyRadiomics (Juptyter Notebook file)
+2. Feature extraction using PyRadiomics 
 3. Using RStudio performing feature selection, model training and statistical analysis (R files)
 
 1. Definition of PAS cases and controls
