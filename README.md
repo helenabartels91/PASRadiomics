@@ -1,5 +1,5 @@
 # PASRadiomics
-Workflow for radiomic study for Placenta Accreta Spectrum (PAS) using MR images¶
+Workflow for radiomic study for Placenta Accreta Spectrum (PAS) using MR images
 
 This script describes a suggested workflow for extracting radiomic features from MR images of patients with Placenta Accreta Spectrum (PAS).
 
