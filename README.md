@@ -9,7 +9,7 @@ The main workflow of this script is as follows:
 2. Feature extraction using PyRadiomics 
 3. Using RStudio performing feature selection, model training and statistical analysis (R files)
 
-# 1. Definition of PAS cases and controls
+1. Definition of PAS cases and controls
 
 Cases of PAS are included when the following criteria are met:
 
@@ -20,8 +20,7 @@ Cases of PAS are included when the following criteria are met:
 Controls: Participants with placenta previa and at least one prior caesarean section, who had no ultrasound or MRI features of PAS, and spontaneous placental separation at the time of laparotomy. 
 Placenta previa was defined as the placenta completely covering the internal os on transvaginal ultrasound beyond 20 weeks’ gestation (4).
 
-In this example, 40 cases and 7 controls were included. Radiomic feature extraction was performed using Pyradiomics (5), resulting in a total of 1820 radiomic features being 
-extracted from 7 feature families, both from the original image and using convolutional image filters such as Laplacian of Gaussian and wavelets.
+In this example, 41 cases and 7 controls were included. Radiomic feature extraction was performed using Pyradiomics (5), resulting in a total of 1820 radiomic features being extracted from 6 feature families, both from the original image and using convolutional image filters such as Laplacian of Gaussian and wavelets.
 
 
 
