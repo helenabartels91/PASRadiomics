@@ -9,7 +9,7 @@ The main workflow of this script is as follows:
 2. Feature extraction using PyRadiomics 
 3. Using RStudio performing feature selection, model training and statistical analysis (R files)
 
-1. Definition of PAS cases and controls
+# 1. Definition of PAS cases and controls
 
 Cases of PAS are included when the following criteria are met:
 
