@@ -1,4 +1,4 @@
-dat = read.csv('/Users/helen/Library/CloudStorage/OneDrive-Personal/Documents/Research/PAS Radiomics research/R code and files/Inferior_adherentinvasive_R.csv')
+dat = read.csv('.csv')
 nms = names(dat)
 dim(dat)
 
