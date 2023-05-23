@@ -1,3 +1,5 @@
+# Eric Wolsztynski, University College Cork, 2023
+# eric.w@ucc.ie
 rm(list=ls()) # clear out the environment
 
 require(caret)
