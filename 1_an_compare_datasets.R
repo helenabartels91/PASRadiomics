@@ -9,12 +9,12 @@ source("src_validation.r")
 
 # load the data
 # check which Irish dataset is the correct version:
-datIinf = read.csv('Ireland_inferior_combined_200923.csv')
-datIsup = read.csv('Ireland_superior_combined_200923.csv')
+datIinf = read.csv('XX.csv')
+datIsup = read.csv('XX.csv')
 #datIinf$BMI = NULL
 #datIsup$BMI = NULL
-datLinf = read.csv('Lebanon inferior combined_200923.csv')
-datLsup = read.csv('Lebanon superior combined_200923.csv')
+datLinf = read.csv('XX.csv')
+datLsup = read.csv('XX.csv')
 # make sure features match throughout
 dim(datIinf); dim(datIsup) 
 dim(datLinf); dim(datLsup) 
